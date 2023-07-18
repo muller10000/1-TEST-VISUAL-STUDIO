@@ -1,1 +1,1 @@
-creo archivo "index.md" de tipo MarkDown, dentro de carpeta(folder) llamada "1 test visual studio"
+creo archivo "index.md" de tipo MarkDown, dentro de carpeta(folder) llamada "1 test visual studio". (Esta es una copia de "main" llamada nueva-rama)
